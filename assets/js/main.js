@@ -2,7 +2,7 @@
 
   Theme Name: Cephnox Technologies
   Author: Cephnox Technologies
-  Support: cephnoxtechnologies@gmail.com
+  Support: info@cephnox.com
   Description: Cephnox Technologies
   Version: 1.0
 
